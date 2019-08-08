@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: SimpleProject.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.015 s - in SimpleProject.AppTest
